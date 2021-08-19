@@ -74,6 +74,9 @@ html{
 .home-image path:hover {
 	opacity: 1;
 }
+path.current-floor{
+	opacity: 1;
+}
 .counter-group{
 	display: flex;
 	flex-direction: column;
@@ -94,6 +97,7 @@ html{
 	color: #635854;
 	margin: 0;
 }
+
 .counter{
 	font-family: "Bebas Neue", sans-serif;
 	font-weight: normal;
